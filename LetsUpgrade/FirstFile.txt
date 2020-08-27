@@ -1,0 +1,11 @@
+Line is :- 1 -> C:\Users\kobalaji\Desktop\LetsUpgrade AI-ML\Practise\venv   -> w
+Line is :- 2 -> C:\Users\kobalaji\Desktop\LetsUpgrade AI-ML\Practise\venv   -> w
+Line is :- 3 -> C:\Users\kobalaji\Desktop\LetsUpgrade AI-ML\Practise\venv   -> w
+Line is :- 4 -> C:\Users\kobalaji\Desktop\LetsUpgrade AI-ML\Practise\venv   -> w
+Line is :- 5 -> C:\Users\kobalaji\Desktop\LetsUpgrade AI-ML\Practise\venv   -> w
+Line is :- 6 -> C:\Users\kobalaji\Desktop\LetsUpgrade AI-ML\Practise\venv   -> w
+Line is :- 7 -> C:\Users\kobalaji\Desktop\LetsUpgrade AI-ML\Practise\venv   -> w
+Line is :- 8 -> C:\Users\kobalaji\Desktop\LetsUpgrade AI-ML\Practise\venv   -> w
+Line is :- 9 -> C:\Users\kobalaji\Desktop\LetsUpgrade AI-ML\Practise\venv   -> w
+Line is :- 10 -> C:\Users\kobalaji\Desktop\LetsUpgrade AI-ML\Practise\venv   -> w
+file will be closed as loop ended
