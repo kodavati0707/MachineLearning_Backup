@@ -1,0 +1,7 @@
+Different types of Tests:
+
+
+Two different :
+
+Parameteric vs non Parametric
+If data is uniform distrubited then parametric else non parametric
